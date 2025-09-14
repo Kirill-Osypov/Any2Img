@@ -2,7 +2,6 @@
   "name": "any-2-img",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Kirill-Osypov.github.io/Any2Img",
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
@@ -19,7 +18,7 @@
     "format:check": "prettier --check src/**/*.{js,jsx,scss,css,json}",
     "lint:format": "npm run lint:fix && npm run format",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "gh-deploy": "node deploy.js"
   },
   "browserslist": {
     "production": [
