@@ -5,14 +5,14 @@
 1. **Обновите homepage в package.json**
    Замените `yourusername` на ваше имя пользователя GitHub:
    ```json
-   "homepage": "https://yourusername.github.io/any-2-img"
+   "homepage": "https://Kirill-Osypov.github.io/Any2Img"
    ```
 
 2. **Убедитесь, что репозиторий настроен на GitHub**
-   - Создайте репозиторий на GitHub с именем `any-2-img`
+   - Репозиторий уже создан на GitHub: `Any2Img`
    - Подключите локальный репозиторий к GitHub:
    ```bash
-   git remote add origin https://github.com/yourusername/any-2-img.git
+   git remote add origin https://github.com/Kirill-Osypov/Any2Img.git
    git push -u origin main
    ```
 
@@ -32,7 +32,7 @@ npm run deploy
 ## Доступ к сайту
 
 После успешного деплоя ваш сайт будет доступен по адресу:
-`https://yourusername.github.io/any-2-img`
+`https://Kirill-Osypov.github.io/Any2Img`
 
 ## Важные замечания
 
