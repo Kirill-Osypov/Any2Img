@@ -10,7 +10,7 @@
 ## 🚀 Demo
 
 Попробуйте приложение онлайн:
-👉 [Any2Img Demo (GitHub Pages)](https://your-username.github.io/any2img/)
+👉 [Any2Img Demo (GitHub Pages)](https://Kirill-Osypov.github.io/any-2-img/)
 
 ---
 
